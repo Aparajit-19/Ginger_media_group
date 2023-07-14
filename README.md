@@ -13,7 +13,7 @@
 <ul>
 <li align="left">Frontend- HTML, CSS, JAVASCRIPT, BOOTSTRAP</li>
 <li align="left">Backend- NODE.JS , EXPRESS.JS </li>
-<li align="left">Others- NPM, NODEMON, JSON, PROCFILE </li>
+<li align="left">Others- API , NPM, NODEMON, JSON, PROCFILE </li>
 </ul>
 
 <h2 align="left">Steps taken to run it:</h2>
