@@ -23,3 +23,8 @@
 <li align="left">Run- nodemon "file name"</li>
 </ul>
 
+<h2 align="left">Visual representation:</h2>
+<ul>
+<<img width="894" alt="Screenshot 45" src="https://github.com/Aparajit-19/Java-learning/assets/74190792/bee89f65-e7b5-4f6d-80b7-541d1fe89aff">>
+</ul>
+
