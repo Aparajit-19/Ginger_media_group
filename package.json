@@ -1,5 +1,5 @@
 {
-  "name": "fitbites",
+  "name": "gingermedia",
   "version": "1.0.0",
   "main": "app.js",
   "scripts": {
@@ -12,6 +12,5 @@
     "express": "^4.18.2",
     "request": "^2.88.2"
   },
-  "devDependencies": {},
   "description": ""
 }

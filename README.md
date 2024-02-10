@@ -1,4 +1,4 @@
-# FITBITES
+# GINGER MEDIA GROUP
 
 <hr/>
 
