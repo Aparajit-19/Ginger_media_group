@@ -25,6 +25,6 @@
 
 <h2 align="left">Visual representation:</h2>
 <ul>
-<<img width="894" alt="Screenshot 45" src="https://github.com/Aparajit-19/Java-learning/assets/74190792/bee89f65-e7b5-4f6d-80b7-541d1fe89aff">>
+<<img width="894" alt="Screenshot 45" src="https://github.com/Aparajit-19/Technerds/assets/74190792/9fd88182-1097-4917-b232-a244da75118c">>
 </ul>
 
